@@ -1,4 +1,4 @@
-# identify_dog_breeds
+# identify-dog-breeds
 ## Use a Pre-trained Image Classifier to Identify Dog Breeds ##
 
 In this project, a created image classifier is used to identify dog breeds.
